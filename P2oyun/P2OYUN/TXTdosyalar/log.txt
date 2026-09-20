@@ -1,0 +1,27 @@
+[HATALI GİRİŞ] 27.05.2026 00:38:29 - Hatalı deneme sayısı: 1
+[GİRİŞ BAŞARILI] 27.05.2026 00:38:50 - Kullanıcı giriş yaptı.
+[GİRİŞ BAŞARILI] 27.05.2026 01:23:19 - Kullanıcı giriş yaptı.
+[HATALI GİRİŞ] 28.05.2026 01:01:58 - Hatalı deneme sayısı: 1
+[YENİ ŞİFRE BELİRLENDİ] 28.05.2026 01:02:07 - Yeni şifre kaydedildi.
+[GİRİŞ BAŞARILI] 28.05.2026 01:02:12 - Kullanıcı giriş yaptı.
+[HATALI GİRİŞ] 28.05.2026 18:54:42 - Hatalı deneme sayısı: 1
+[GİRİŞ BAŞARILI] 28.05.2026 18:54:52 - Kullanıcı giriş yaptı.
+[HATALI GİRİŞ] 28.05.2026 19:32:32 - Hatalı deneme sayısı: 1
+[YENİ ŞİFRE BELİRLENDİ] 28.05.2026 19:32:42 - Yeni şifre kaydedildi.
+[GİRİŞ BAŞARILI] 28.05.2026 19:32:48 - Kullanıcı giriş yaptı.
+[HATALI GİRİŞ] 29.05.2026 12:58:05 - Hatalı deneme sayısı: 1
+[HATALI GİRİŞ] 29.05.2026 12:58:06 - Hatalı deneme sayısı: 2
+[HATALI GİRİŞ] 29.05.2026 12:58:08 - Hatalı deneme sayısı: 3
+[HATALI GİRİŞ] 29.05.2026 12:58:18 - Hatalı deneme sayısı: 1
+[YENİ ŞİFRE BELİRLENDİ] 29.05.2026 12:58:29 - Yeni şifre kaydedildi.
+[GİRİŞ BAŞARILI] 29.05.2026 12:58:34 - Kullanıcı giriş yaptı.
+[HATALI GİRİŞ] 29.05.2026 13:42:46 - Hatalı deneme sayısı: 1
+[YENİ ŞİFRE BELİRLENDİ] 29.05.2026 13:42:58 - Yeni şifre kaydedildi.
+[GİRİŞ BAŞARILI] 29.05.2026 13:43:04 - Kullanıcı giriş yaptı.
+[HATALI GİRİŞ] 29.05.2026 13:49:02 - Hatalı deneme sayısı: 1
+[YENİ ŞİFRE BELİRLENDİ] 29.05.2026 13:49:09 - Yeni şifre kaydedildi.
+[GİRİŞ BAŞARILI] 29.05.2026 13:49:16 - Kullanıcı giriş yaptı.
+Hatalı Giriş - 29.05.2026 14:03:34
+Hatalı Giriş - 29.05.2026 14:04:17
+Başarılı Giriş - 29.05.2026 14:05:04
+Başarılı Giriş - 29.05.2026 14:21:31
